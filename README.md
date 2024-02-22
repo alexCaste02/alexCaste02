@@ -1,5 +1,10 @@
 Hi 👋 My name is Alejandro Castellanos
-======================================Junior Developer----------------* 🌍  I'm based in Orihuela-Costa* ✉️  You can contact me at [alexcaste2002@gmail.com](mailto:alexcaste2002@gmail.com)* 🧠  I'm learning .NET & REST
+======================================
+Junior Developer
+----------------
+* 🌍  I'm based in Orihuela-Costa
+* ✉️  You can contact me at [alexcaste2002@gmail.com](mailto:alexcaste2002@gmail.com)
+* 🧠  I'm learning .NET & REST
 
 ### Skills
 
